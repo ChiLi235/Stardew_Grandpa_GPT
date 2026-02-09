@@ -10,7 +10,7 @@ from urllib.parse import unquote
 # =========================
 # Config
 # =========================
-OUT_DIR = "/Users/chili/Desktop/StardeWiki2"
+OUT_DIR = os.getcwd()
 MANIFEST_PATH = os.path.join(OUT_DIR, "manifest.json")
 
 BASE = "https://stardewvalleywiki.com"
