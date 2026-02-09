@@ -1,0 +1,10 @@
+{  
+    "Name": "<StardewGPT>",
+    "Author": "<BigPenguin>",
+    "Version": "1.0.0",
+    "Description": "<StardewGPT allows you to chat with GPT model about game content>",
+    "UniqueID": "BigPenguin.StardewGPT",
+    "EntryDll": "StardewGPT.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
