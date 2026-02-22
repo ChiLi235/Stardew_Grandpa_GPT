@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "JwPYPOfkLVrapeCEyVBqN26Ywvwrt5lRN4qk0EZ1oDKva9SuZt3OSI2/uHYVlvH6PT7zKz+vV/d2Gmjc2DndoQ==",
+  "success": true,
+  "projectFilePath": "/Users/chili/Downloads/StardewGPT/StardewGPT.csproj",
+  "expectedPackageFiles": [
+    "/Users/chili/.nuget/packages/microsoft.data.sqlite/6.0.0/microsoft.data.sqlite.6.0.0.nupkg.sha512",
+    "/Users/chili/.nuget/packages/microsoft.data.sqlite.core/6.0.0/microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
+    "/Users/chili/.nuget/packages/pathoschild.stardew.modbuildconfig/4.4.0/pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512",
+    "/Users/chili/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.6/sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/chili/.nuget/packages/sqlitepclraw.bundle_sqlite3/2.1.8/sqlitepclraw.bundle_sqlite3.2.1.8.nupkg.sha512",
+    "/Users/chili/.nuget/packages/sqlitepclraw.core/2.1.8/sqlitepclraw.core.2.1.8.nupkg.sha512",
+    "/Users/chili/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.6/sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/chili/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.0.6/sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "/Users/chili/.nuget/packages/sqlitepclraw.provider.sqlite3/2.1.8/sqlitepclraw.provider.sqlite3.2.1.8.nupkg.sha512",
+    "/Users/chili/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
